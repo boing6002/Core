@@ -52,7 +52,7 @@
         "laravel-enso/logmanager": "2.2.*",
         "laravel-enso/menumanager": "2.3.*",
         "laravel-enso/notifications": "2.2.*",
-        "laravel-enso/people": "1.1.*",
+        "boing6002/people": "dev-master",
         "laravel-enso/permissionmanager": "2.3.*",
         "laravel-enso/rememberable": "1.4.*",
         "laravel-enso/rolemanager": "2.5.*",
